@@ -1,0 +1,13 @@
+{
+  "name": "smartdoc",
+  "version": "1.0.0",
+  "description": "SmartDoc - CSV to Template-Based PDF Generator",
+  "scripts": {
+    "build": "cd client && npm install && npm run build",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev"
+  },
+  "keywords": ["pdf", "csv", "template", "document", "generator"],
+  "author": "SmartDoc",
+  "license": "MIT"
+}
